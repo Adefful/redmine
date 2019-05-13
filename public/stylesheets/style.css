@@ -1,0 +1,49 @@
+body {
+    background: white;
+
+
+}
+#header, #top-menu {
+    background: #222222;
+}
+#content {
+    background-image: url(https://wallbox.ru/wallpapers/main/201507/81cd7b67d729f4b.jpg);
+
+
+}
+input {
+
+    margin-left: 40%;
+    margin-top: 5px;
+    background: black;
+    opacity: .3;
+    color: white;
+
+    border: 0px;
+    border-color: #777777;
+    font-size: 20px;
+
+}
+label {
+    background: transparent;
+    margin-left: 40%;
+    font-size: 20px;
+    border: #222222;
+    border-radius: 3px;
+    margin-top: 5px;
+    color: white;
+    opacity: .3;
+
+}
+
+
+h1 {margin-left: 40%;
+    color: white;
+}
+h2 {margin-left: 40%;
+    color: white;
+}
+h1:hover {
+
+
+}
